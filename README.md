@@ -6,7 +6,7 @@ This project focuses on collecting, analyzing, and comparing hotel and business 
 
 # Tools and Technologies Used
 
-# Python: For data collection, manipulation, and analysis.
+Python: For data collection, manipulation, and analysis.
 
 Google Maps Places API: To gather real-time data on hotels and businesses in selected U.S. cities.
 
