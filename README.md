@@ -1,4 +1,4 @@
-# USA Hotel and Business Rating Data Analysis
+# USA Hotel and Business Rating Data Analysis 
 
 # Introduction
 
